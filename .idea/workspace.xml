@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acd098cf-7654-4185-81ca-338658e3ce39" name="Changes" comment="tutorial completed">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2-database/src/main/java/dev/ahmed/h2database/dao/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2-database/src/main/java/dev/ahmed/h2database/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h2-database/src/main/java/dev/ahmed/h2database/service/EmployeeEntityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2-database/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/h2-database/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2-database/src/main/java/dev/ahmed/h2database/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/h2-database/src/main/java/dev/ahmed/h2database/controller/ControllerE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2-database/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/h2-database/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2-database/src/main/resources/data/employees.lock.db" beforeDir="false" afterPath="$PROJECT_DIR$/h2-database/src/main/resources/data/employees.lock.db" afterDir="false" />
-    </list>
+    <list default="true" id="acd098cf-7654-4185-81ca-338658e3ce39" name="Changes" comment="tutorial completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647019924886</updated>
-      <workItem from="1647019926562" duration="7692000" />
+      <workItem from="1647019926562" duration="8537000" />
     </task>
     <task id="LOCAL-00001" summary="h2database tutorial">
       <created>1647020248481</created>
@@ -138,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647023104449</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tutorial completed">
+      <created>1647027978317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647027978317</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
