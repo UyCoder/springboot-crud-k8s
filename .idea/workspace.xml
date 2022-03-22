@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acd098cf-7654-4185-81ca-338658e3ce39" name="Changes" comment="tutorial completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="acd098cf-7654-4185-81ca-338658e3ce39" name="Changes" comment="tutorial completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +111,7 @@
       <workItem from="1647019926562" duration="8537000" />
       <workItem from="1647860017623" duration="890000" />
       <workItem from="1647862178342" duration="12000" />
+      <workItem from="1647970277744" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="h2database tutorial">
       <created>1647020248481</created>
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647860046306</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tutorial completed">
+      <created>1647970317539</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647970317539</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
